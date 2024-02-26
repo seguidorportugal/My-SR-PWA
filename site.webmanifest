@@ -1,0 +1,23 @@
+   {
+    "name": "Seguidor Radios",
+    "short_name": "Seguidor",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFRKcuSMc-fQqpDa2qiTVZCdX05vD6QMHJdxuHT99N46uKn7hdzTfksOJVuKNObrkNv_685y8ACP_GuH8ftMAE1z3V3OljEEzJbLIEOSn4oXv0n4zkF3e-U7SbLIuO5pNbLyS5oVWf7BhophqXf5S9IR_ntKIFy2wBuGOZYQ1MDRPvkdKKKBKB6kmuceU/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgnOvBE8uWg1dYjNUZcFjXV-yilqjiU-nC50xYDq3LtdnhuPc0K054ePli91SzwFJ4HdB8X0v1lSY4639guUYQa5kruvFruZRlbDVUbk4UFtrzmd_jl6Hdf0BHXfFjAlVW73yPiSjkpGfIBL4F-I3NIaAnrh8GmQHdDpcfQznyWikGxFAdOEFfsfyPO8/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://radios.seguidor.pt"
+}
